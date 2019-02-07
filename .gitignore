@@ -16,7 +16,6 @@ cabal.sandbox.config
 *.hp
 *.eventlog
 .stack-work/
-cabal.project.local
-cabal.project.local~
+hash-tool.cabal
 .HTF/
 .ghc.environment.*
